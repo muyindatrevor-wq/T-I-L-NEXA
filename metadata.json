@@ -1,0 +1,8 @@
+{
+  "name": "SenteLedger",
+  "description": "A mobile money ledger management application for telecom and utility retail agents in Uganda to track MTN and Airtel float, physical cash, and customer transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
